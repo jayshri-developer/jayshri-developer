@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jayshri Patil
+- 👋 Hi, I’m Jayshri
 - 👀 I’m interested in JAVA AND REACT 
 
 <!---
