@@ -8,6 +8,6 @@
 
 #### Top Repositories
 
-| Repository 1 | Repository 2 |
-| ------------- | ------------- |
-| [DataStructures and Algorithms](https://github.com/jayshri-developer/DataStructures_and_Algorithms) | [Video to Tag Converter](https://github.com/jayshri-developer/Video-To-Tag-Converter) |
+| Repository 1 | Repository 2 | Repository 3 |
+| ------------- | ------------- | ------------- |
+| [DataStructures and Algorithms](https://github.com/jayshri-developer/DataStructures_and_Algorithms) | [Video to Tag Converter](https://github.com/jayshri-developer/Video-To-Tag-Converter) | [ML Projects](https://github.com/jayshri-developer/Machine-Learning-Projects) |
